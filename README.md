@@ -68,8 +68,8 @@ I'm a passionate **Full Stack Developer** and **Tech Enthusiast** who loves buil
 <!-- You can customize this section with your actual projects -->
 Here are some of my notable projects:
 
-- 🔗 [Project 1](https://github.com/epiitom/project1) - Brief description
-- 🔗 [Project 2](https://github.com/epiitom/project2) - Brief description  
+- 🔗 [Project 1](https://web-reel-w7tg.vercel.app/) - WebReel
+- 🔗 [Project 2](https://campusguide1.onrender.com/) - CampusGuide Ai 
 - 🔗 [Project 3](https://github.com/epiitom/project3) - Brief description
 
 ## 🤝 Connect With Me
