@@ -54,9 +54,7 @@ I'm a passionate **Full Stack Developer** and **Tech Enthusiast** who loves buil
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=epiitom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epiitom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
