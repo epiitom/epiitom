@@ -1,7 +1,8 @@
-# Heyy I'm Prathmesh!  Coding till ‘what’s the point?’ to ‘this is the point.
+# Heyy I'm Prathmesh!
 
 <div align="center">
   <div >
+   Coding till ‘what’s the point?’ to ‘this is the point.
    FullStack Enginner
 </div>
 
