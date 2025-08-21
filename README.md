@@ -1,4 +1,4 @@
-# Heyy I'm Prathmesh!
+# Heyy I'm Prathmesh!  Coding till ‘what’s the point?’ to ‘this is the point.
 
 <div align="center">
   <div >
